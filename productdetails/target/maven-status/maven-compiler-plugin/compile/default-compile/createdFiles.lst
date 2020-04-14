@@ -1,0 +1,9 @@
+com\product\spring\controller\ProductController.class
+com\product\spring\model\Product.class
+com\product\spring\model\ProductConfigDetails.class
+com\product\spring\security\SecurityConfiguration.class
+com\product\spring\dto\ResponseDTO.class
+com\product\spring\security\SecurityWebApplicationInitializer.class
+com\product\spring\security\CustomBasicAuthenticationEntryPoint.class
+com\product\spring\security\AppInitializer.class
+com\product\spring\controller\ProdRestURIConstants.class
