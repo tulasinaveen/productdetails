@@ -1,0 +1,32 @@
+product details rest api project
+--------------------------------
+Instructions:
+------------
+
+Restapi urls:
+-------------
+http://localhost:8080/productdetails/api/getproductdetails - To get product details json response
+http://localhost:8080/productdetails/api/getconfigdetails - To get product config details json response
+
+Added Dependencies:
+------------------
+spring-core
+spring-web
+spring-webmvc
+spring-security-core
+spring-security-web
+spring-security-config
+jackson.libraray
+
+Security:
+---------
+Implemented Basic authentication.
+
+User name : admin,  password: admin123
+User name : user, password: user123
+
+
+
+
+
+
